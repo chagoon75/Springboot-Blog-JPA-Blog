@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class BoardController {
-
+	//깃테스트
 	@GetMapping({"","/"})
 	public String index( ) {
 		// /WEB-INF/views/index.jsp
