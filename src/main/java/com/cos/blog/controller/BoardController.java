@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class BoardController {
-	// Git Local Modify 3
+	// Git Local Modify 4
 	@GetMapping({"","/"})
 	public String index( ) {
 		// /WEB-INF/views/index.jsp
