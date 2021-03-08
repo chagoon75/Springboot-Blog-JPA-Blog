@@ -21,7 +21,7 @@ import com.cos.blog.model.RoleType;
 import com.cos.blog.model.User;
 import com.cos.blog.repository.UserRepository;
 
-// 로컬수정 - 2021.03.08 10:02
+// GitHub && 로컬 Merge 완료. - 2021.03.08 10:33
 // html파일이 아니라 date를 리터해주는 controller = RestController
 @RestController
 public class DummyControllerTest {
