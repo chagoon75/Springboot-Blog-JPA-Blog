@@ -21,6 +21,7 @@ import com.cos.blog.model.RoleType;
 import com.cos.blog.model.User;
 import com.cos.blog.repository.UserRepository;
 
+// GitHub에서 수정 - 2021.03.08 10:13
 // html파일이 아니라 date를 리터해주는 controller = RestController
 @RestController
 public class DummyControllerTest {
