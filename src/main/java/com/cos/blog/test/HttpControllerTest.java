@@ -1,6 +1,8 @@
 package com.cos.blog.test;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
+
+// Locall(master) 수정
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
