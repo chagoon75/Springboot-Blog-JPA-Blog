@@ -3,6 +3,7 @@ package com.cos.blog.test;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// Local(develop) 에서 수정  - 2021.03.08 11:13
 // develop brech 로컬수정 - 2021.03.08 10:38
 // GitHub && 로컬 Merge 완료. - 2021.03.08 10:33
 // 스프링이 com.cos.blog패키지 이하를 스캔해서 모든파일을 메노리에 new하는것은 아니구요.
