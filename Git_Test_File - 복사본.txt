@@ -1,1 +1,2 @@
 Git test Start
+master에 머지할 내용을 입력했어요
