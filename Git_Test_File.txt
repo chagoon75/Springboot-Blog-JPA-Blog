@@ -4,3 +4,5 @@ GitHub에서도 수정을 했어요
 두개를 잘 합쳤슈
 develop의 내용을 머지할건데 conflict가 날꺼야!!
 master에 머지할 내용을 입력했어요
+
+develop에서 추가로 수정했어요
