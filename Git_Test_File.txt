@@ -7,4 +7,4 @@ master에 머지할 내용을 입력했어요
 
 develop에서 추가로 수정했어요
 
-new_work3에서 수정하고 있어요
+new_work3에서 수정하고 있어요 work3에서 또수정했어요
