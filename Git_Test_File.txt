@@ -6,3 +6,6 @@ develop의 내용을 머지할건데 conflict가 날꺼야!!
 master에 머지할 내용을 입력했어요
 
 develop에서 추가로 수정했어요
+
+new_work2에서 수정하고 있어요
+충돌이 날거에요
