@@ -1,1 +1,4 @@
 충돌테스트 work2 같은 Line 수정했음
+
+충돌 테스트 두번재 work2 
+work3와 work2가 동시에 같은 라인을 수정후 commit을 해야 충돌이 남
